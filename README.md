@@ -1,2 +1,6 @@
 # My-first-Node-app-was-Blog
-first 
+app using:
+- ejs template engine
+- node http module
+- express framework
+- mongodb database
